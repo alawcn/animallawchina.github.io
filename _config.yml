@@ -2,8 +2,8 @@
 title: animal law China
 email: animallawchina@gmail.com
 description:  123
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+baseurl: "animallawchina.github.io" # the subpath of your site, e.g. /blog/
+url: "http://animallawchina.github.io" # the base hostname & protocol for your sitea
 
 twitter_username:
 github_username:
